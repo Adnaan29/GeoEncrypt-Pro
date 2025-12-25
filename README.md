@@ -101,6 +101,9 @@ This creates a **cryptographic proof-of-location**, not a tracking system.
 
 ---
 
+## ScreenShots
+![Main Menu](media/1.jpeg)
+
 ## 🛠️ Technology Stack
 
 ### Frontend
