@@ -136,4 +136,4 @@ This creates a **cryptographic proof-of-location**, not a tracking system.
 ### Backend Setup
 ```bash
 pip install flask flask-cors cryptography stegano opencv-python numpy
-python app.py
+python backend.py
