@@ -102,7 +102,11 @@ This creates a **cryptographic proof-of-location**, not a tracking system.
 ---
 
 ## ScreenShots
-![Main Menu](media/1.jpeg)
+![Main Menu](Media/1.jpeg)
+![Encryptin/Decryption](Media/2.jpeg)
+![Encryptin/Decryption](Media/3.jpeg)
+
+Project Demonstration MP4 Available in Media Folder*
 
 ## 🛠️ Technology Stack
 
