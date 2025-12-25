@@ -148,3 +148,8 @@ Project Demonstration video available at: https://youtu.be/uPujsNkJZRA
 ```bash
 pip install flask flask-cors cryptography stegano opencv-python numpy
 python backend.py
+```
+## 👥 Contributors
+
+- **Adnaan Momin** – [GitHub](https://github.com/Adnaan29)
+- **Tejas Abhang** – [GitHub](https://github.com/TejasAbhang77)
