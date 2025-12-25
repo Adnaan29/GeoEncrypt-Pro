@@ -110,7 +110,7 @@ This creates a **cryptographic proof-of-location**, not a tracking system.
   <img src="Media/2.jpeg" width="800">
 </p>
 
-Project Demonstration MP4 Available in Media Folder*
+Project Demonstration video avaialable at: https://youtu.be/uPujsNkJZRA
 
 ## 🛠️ Technology Stack
 
